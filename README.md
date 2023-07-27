@@ -39,11 +39,23 @@ AIM : By using a user defined function perform all arithmetic operations.
 
 <b>Practical 1.8</b><br/>
 
-![image](https://github.com/DarshilChodvadiya193/MAD_Practical-1_21012021016/assets/98377643/17206a57-85c8-4259-92ed-63fc0009ff75)
+![image](https://github.com/DarshilChodvadiya193/MAD_Practical-1_21012021016/assets/98377643/4313229a-6bf8-4488-bc48-91f114790a61)
+![image](https://github.com/DarshilChodvadiya193/MAD_Practical-1_21012021016/assets/98377643/c61cf1b4-f91b-41db-8b59-505db34c12e8)
+
 
 <b>Practical 1.9</b><br/>
+![image](https://github.com/DarshilChodvadiya193/MAD_Practical-1_21012021016/assets/98377643/b193cf1d-f4df-4cf6-8e5a-4ca62bc386f2)
+
+
 <b>Practical 1.10</b><br/>
+![image](https://github.com/DarshilChodvadiya193/MAD_Practical-1_21012021016/assets/98377643/1a00c060-377c-4c05-a3bd-1dffb3ba743e)
+![image](https://github.com/DarshilChodvadiya193/MAD_Practical-1_21012021016/assets/98377643/a98547fc-c4d0-4f13-b09f-d8bd565bd6c3)
+
+
 <b>Practical 1.11</b><br/>
+![image](https://github.com/DarshilChodvadiya193/MAD_Practical-1_21012021016/assets/98377643/2231cf3b-ed9f-4a07-9117-86b9b3b145ab)
+![image](https://github.com/DarshilChodvadiya193/MAD_Practical-1_21012021016/assets/98377643/83ad1ef2-00f1-4980-b681-e2b67a14a176)
+![image](https://github.com/DarshilChodvadiya193/MAD_Practical-1_21012021016/assets/98377643/36b64152-9846-4a56-b47b-539ec74b22ab)
 
 
 
