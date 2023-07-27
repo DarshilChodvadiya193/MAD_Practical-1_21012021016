@@ -10,6 +10,4 @@ fun main(){
     {
         println("Num is odd")
     }
-
-
 }
