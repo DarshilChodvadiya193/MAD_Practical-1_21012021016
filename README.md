@@ -33,5 +33,20 @@ AIM : By using a user defined function perform all arithmetic operations.
 ![image](https://github.com/DarshilChodvadiya193/MAD_Practical-1_21012021016/assets/98377643/75fc0ae4-6d44-42a5-9762-723ba347f846)
 
 <b>Practical 1.7</b><br/>
+![image](https://github.com/DarshilChodvadiya193/MAD_Practical-1_21012021016/assets/98377643/8979c9f5-d78b-4e3f-a4bb-b6f9f7a0f227)
+
+
+
+<b>Practical 1.8</b><br/>
+
+![image](https://github.com/DarshilChodvadiya193/MAD_Practical-1_21012021016/assets/98377643/17206a57-85c8-4259-92ed-63fc0009ff75)
+
+<b>Practical 1.9</b><br/>
+<b>Practical 1.10</b><br/>
+<b>Practical 1.11</b><br/>
+
+
+
+<b>Practical 1.7</b><br/>
 AIM : Find the factorial of number by recursion. Explain "tailrec" keyword.
 
