@@ -34,6 +34,7 @@ AIM : By using a user defined function perform all arithmetic operations.
 
 <b>Practical 1.7</b><br/>
 AIM : Find the factorial of number by recursion. Explain "tailrec" keyword.
+
 ![image](https://github.com/DarshilChodvadiya193/MAD_Practical-1_21012021016/assets/98377643/8979c9f5-d78b-4e3f-a4bb-b6f9f7a0f227)
 
 
